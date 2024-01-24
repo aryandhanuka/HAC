@@ -1,0 +1,2 @@
+# HAC
+hierarchical agglomerative clustering
